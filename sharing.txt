@@ -1,0 +1,12 @@
+
+<h2>FRBR and Bibliographic Data Sharing</h2>
+		<<h2>Is WEMI Necessary for Bibliographic Description?</h2>
+<p>Although FRBR introduces a specific four-entity model, it doesn't change the actual content of a bibliographic record. Everything that is in FRBR can be found in pre-FRBR bibliographic records following AACR2. FRBR, as it was intended to do, imposes a conceptual model on the cataloging that libraries already do. It provides a more structured way to think about that cataloging, but in particular it provides an emphasis on relationships that may not have been explicit in cataloging rules. However, as has been seen in all of the systems that transform current unitary records to FRBR, most of information is available in some form.</p>
+<p>&quot;In summary, while FRBR <em>looks</em> very new and unfamiliar, it is the culmination of cataloging models used throughout cataloging history. What <em>is</em> new and different about FRBR is the following:</p>
+<ul type="disc">
+  <li>it explicitly identifies and defines four entities;</li>
+  <li>it recognizes four entities simultaneously; and</li>
+  <li>it presents a cataloging model using an ER modeling technique.&quot; [carlyle2006]</li>
+</ul>
+<p>Librarians are not the only ones who develop bibliographic data; there are numerous databases created in other communities. Among these, work seems to be a fairly common concept; manifestation is also common, as this exists at the product or ownership level. I have yet to find a database with something equivalent to FRBR Expression. Some databases have a concept of Work and Manifestation are:  Freebase, Open Library, musicBrainz. These all have something they call a work and that has a similar role of providing a single entry point for a resource whose content has been produced in more than one instance. And the database is populated with Manifestations (although that term is not used). These databases also link creators to both Works and Manifestations, and have either topics or categories, depending on their subject matter. </p>
+<p>I find it to be particularly signficant that these non-library databases are crowd-sourced. For them to be successful the concepts and structures must be easy for non-llibrarians to understand without any prior training. These should provide a clue to a general population conception of the bibliographic universe, as well as the preferences for search, navigation, and display.</p>

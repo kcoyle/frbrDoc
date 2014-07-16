@@ -1,0 +1,14 @@
+
+				<h2>Develop a Basic Bibliographic Model</h2>
+
+		<content:encoded><![CDATA[  <p>The goals here are mixed. The document says:
+    <p>&quot;The study makes no a priori assumptions about the bibliographic record itself, either in terms of content or structure.&quot; (p3)    
+    <p>But it also states:    
+    <p>&quot;The attributes defined for the study were derived from a logical analysis of the data that are typically reflected in bibliographic records.&quot; [frbr 31]
+    
+    <p>...    
+    <p>During the development of FRBR there were periods of review, and presumably comments were received, but this information is no longer available. (For a profession that prides itself on preserving knowledge for the future, we are terrible at keeping our own history.) In her article in Le Boeuf's book [leboeuf], Olivia Madison recounts a 1996 review of FRBR that received forty responses from sixteen different countries. Of these, seven were critical of FRBR.</p>
+<blockquote>
+  <p>&quot;The principal issues reflected honest difference of professional perspectives related to the research methodology, the actual need for this partiuclar study, the adequacy of its user-focus, and the work process and adequacy of detail...&quot; p. 26</p>
+</blockquote>
+<p>It would be interesting to know what libraries responded, what in particular they said, and which had criticisms. Madison states that there were 40 responses from 16 countries, and refers to this as a &quot;worldwide review,&quot; although it seems a bit &quot;world-narrow.&quot;</p>

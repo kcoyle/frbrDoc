@@ -1,0 +1,7 @@
+
+				<h2>User Needs Goals</h2>
+<p>The FRBR document states that FRBR is a conceptual model focused on user tasks:</p>
+    <blockquote>
+      <p>&quot;The intent was to produce a conceptual model that would serve as the basis for relating specific attributes and relationships (reflected in the record as discrete data elements) to the various tasks that users perform when consulting bibliographic records.&quot; p. 3</p>
+    </blockquote>
+  <p>Note here the use of "consulting bibliographic records." It is necessary at times to remind ourselves that the final R in FRBR is "Records" and the study was specifically about

@@ -1,0 +1,9 @@
+				<h2>How FRBR Defines FRBR</h2>
+<p>Few of us have done a close reading of the FRBR document, although I would guess that many have glanced at the diagrams, either within the context of the document or as illustrations used in talks that we've attended. This means that many of us have had our concept of FRBR formed from secondary sources that emphasized only a portion of the content of the document. The FRBR document is 142 pages in length, including appendices, which makes it a formidable read. The document includes three very high level entity-relation diagrams; high level in the sense that they contain very little detail. Although a picture may be worth one thousand words, these three diagrams are far from expressing the full meaning of the work of the Study Group.
+
+Most descriptions of FRBR begin with a list of the entities in the three groups, and then illustrate these entities with one or more of the diagrams from the document. I hope to do something quite different here, which is to focus on the text itself, and how the text describes goals and conclusions of the study.    </p>
+    <p>What we'll see is that the FRBR document does harbor some ambiguity, not all of which is obviously intentional. We will also be able to compare the textual description of the conceptual model with the entity-relation diagrams that have come to represent FRBR for most librarians.</p>
+
+
+"Because the notion of a work is abstract, it is difficult to define precise boundaries for the entity. The concept of what constitutes a work and where the line of demarcation lies between one work and another may in fact be viewed differently from one culture to another. Consequently the bibliographic conventions established by various cultures or national groups may differ in terms of the criteria they use for determining the boundaries between one work and another."<em>
+</em>

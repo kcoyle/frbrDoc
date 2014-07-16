@@ -1,0 +1,6 @@
+<h2>Economic Goals</h2>
+		<<p>While the FRBR goals of the creation of a concpetual model and addressing the defined user tasks get the most attention, the introduction in the FRBR document speaks to the motivation for the development of a new bibliographic model as primarily economic: the <span class="under">need</span> to serve users  while reducing the cost of cataloging worldwide. The economic issue is addressed repeatedly in the introduction, with statements such as:</p>
+    <blockquote>
+      <p>&quot;The purpose of formulating recommendations for a basic level national bibliographic record was to address the need identified at the Stockholm Seminar for a core level standard that would allow national bibliographic agencies to reduce their cataloguing costs through the creation, as necessary, of less-than-full-level records, but at the same time ensure that all records produced by national bibliographic agencies met essential user needs.&quot; p.2</p>
+    </blockquote>
+<p>The above quote also makes clear that FRBR is defining a core bibliographic description for international use. </p>

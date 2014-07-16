@@ -1,0 +1,23 @@
+
+
+				<h2>FRBRCore</h2>
+		<a title="FRBR Core ontology" href="http://vocab.org/frbr/core.html" target="_blank">FRBRCore</a> was the first FRBR ontology created using RDF class and property definitions. It was developed by Ian Davis and Richard Newman in 2005, and was last updated in 2009. It varies from the model described in the IFLA FRBR document and was never acknowledged by the FRBR Review Group. It has been used in linked data, although not in its entirety (which is not unusual). The <a title="FRBR at Linked Open Vocabularies" href="http://lov.okfn.org/dataset/lov/details/vocabulary_frbr.html" target="_blank">Linked Open Vocabularie</a>s project reports that FRBRCore is used in twelve vocabularies, and appears in nearly 30 million instances. The primary users are the union catalogs of Bavaria, Berlin and Brandenber [b3kat], and the union catalogs of Hessen and parts of Rhineland [hebis]. These catalogs account for about 24 million instances of FRBRCore in triples. By far the most heavily used elements are:
+<ul>
+	<li>Manifestation (class)</li>
+	<li>Item (class)</li>
+	<li>exemplar (property)</li>
+	<li>owner (property)</li>
+</ul>
+Classes Expression and Work are used only a few times, and Endeavor is not used at all.
+
+The "core" aspect of FRBRCore is that it does not include as properties the descriptive elements that in FRBR are listed as attributes of the entities. Instead, it focuses on the entities and the relationships between entities. The list of relationships includes those primary relationships between the entities that are shown on the diagrams in the FRBR document. These are the Group 1 relationships like "embodimentOf" (between manifestation and expression) and "realizationOf" (between expression and work), and the group 2 relationships "creator", "owner", "producer", "realizer". All of the entity/entity relationships listed in section 5 of the FRBR report are included.
+
+As it has been defined, FRBRCore represents the object properties of the FRBR model. The data properties, equivalent to the FRBR attributes, are not modeled. Anyone implementing a vocabulary that uses some or all FRBRCore classes can model their own data properties in relation to FRBRCore.
+
+FRBRCore defines super classes for each of the FRBR groups. These are "Endeavor" (group 1), "ResponsibleEntity" (group 2), and "Subject" (group 3). This does provide the capability of addressing the group as a whole, both in vocabulary development and in instance data. The relationships between group 1 entities are sub-properties of a property called "relatedEndeavor". Some of these relationships are specific to more than one entity, such as "summarizationOf", which has a domain of expression or work and a range of expression or work. This is one possible interpretation of section 5 which sometimes lists the same relationship between different entities.
+
+There are a small number of sub-classes of work and expression. For example, "legal work" and "academic work" are subclasses of work, and "moving picture" and "text" are subclasses of expression. IFLA FRBR treats these as attributes, "form of work" and "form of expression" but in RDF these could be logically viewed as sub-classes.
+
+FRBRCore does designate some classes to be disjoint from each other. It includes a declaration of disjointness between the super-classes that represent the groups, declares the group 1, group 2 and group 3 entities to be disjoint from each other, but allows all FRBR classes to be members of the class "Subject." The logical result of this is that vocabularies using FRBRCore with their own defined set of data properties should not define a property with a domain of two disjoint classes if they wish to remain consistent with FRBRCore definitions. This could be a reason to define properties common to more than one class at the super-class level. It is also possible that a "highest class," similar to the schema.org definition of Thing, may be needed to appropriately locate any data properties that can be generalized to all of the FRBR model.
+
+Overall, FRBRCore is a strong RDF interpretation of the FRBR conceptual model. In an <a title="Alistair notes" href="http://dublincore.org/moinmoin-wiki-archive/dcmirdataskgroup/pages/AlistairMiles_2fAnalysisNotes20081011.html">informal study</a> that he developed for a Dublin Core effort, Alistair Miles recommended that the IFLA Review Group follow the lead of FRBRCore and use it as a basis for their RDF version of FRBR that they were to develop.

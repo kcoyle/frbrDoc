@@ -1,0 +1,11 @@
+
+	<h2>FRBR and the Catalog User</h2>
+		<p>Today's OPAC has manifestations and their related item information (the latter generally serving the circulation function). The results of any search is a set of manifestations, presented in some order (ranked, by date, or alphabetical). All searchable fields are in the manifestation record. With FRBR Group 1 there are options relating both to retrieval and to display. </p>
+<p>First, we must assume that users will not be aware of the Group 1 structure, but will search as they do today, which means:</p>
+<ol>
+  <li>by keyword, which pools words from all of the searchable fields in the record</li>
+  <li>by author, title, or subject</li>
+</ol>
+<p>In most OPACs, the title index includes all titles included, therefore the user searches the work title and the manifestation title with one search. The same is true of the various creators, who are searched together in the same index, yet in FRBR primary creators are linked to the FRBR work and some secondary creators (translators, illustrators) are linked to the Expression. I am assuming that these searches will contnue to work in this way, with the user not being required to know what Group 1 entity the search should go against.</p>
+<p>Where changes are anticipated, however, are in the user displays. There is a general assumption that users will not be given a single, manifestation-level display as they are today, but will be given a view that takes advantage of the Work/Expression as a way to gather all versions of the Work together in a new kind of collocation using the primary author and the Work title. However, there may need to be decisions based on the language of the catalog or of the user. For example, the Work title &quot;Война и миръ&quot;(War and Peace) may not be useful in a catalog aimed at English-language speakers, yet that is the correct Work title. It is also unclear how Expressions should be used in display; both WorldCat and OpenLibrary ignore the Expression level and display Works and Manifestations. </p>
+<p>The &quot;Scherzo&quot; project at Indiana University developed a FRBR-ized catalog of music materials did comparative user testing between the FRBR-ized and the traditional catalog. Although some of the results were mixed, they concluded that users prefered the FRBR-ized catalog. [scherzo]</p>

@@ -1,0 +1,153 @@
+<h2>References</h2>
+[aggregates] Neill, E. O., Cato, A., Goossens, P., Kuhagen, J., Tillett, B., Nuys, C. Van, &amp; Žumer, M. (2011). <em>Final Report of the Working Group on Aggregates</em>. <em>Collections</em> (pp. 1–20).
+[alastats] ALA Library Fact Sheet 1 http://www.ala.org/tools/libfactsheets/alalibraryfactsheet01
+
+[b3kat] B3Kat - Library Union Catalogues of Bavaria, Berlin and Brandenburg. http://datahub.io/dataset/b3kat
+
+[cco] Baca, Murtha. <em>Cataloging Cultural Objects: Cco; a Guide to Describing Cultural Works and Their Images</em>. Chicago: American Library Association, 2006.
+
+[baca] Baca, Murtha, and Sherman Clarke. "FRBR and works of art, architecture, and material culture." <em>Understanding FRBR: what it is and how it will affect our retrieval tools</em> (2007): 227-242.
+
+[battles] Battles, Matthew. <em>Library: An Unquiet History</em>. New York [u.a.: Norton, 2003.
+
+[blair] Blair, Ann. <em>Too Much to Know: Managing Scholarly Information Before the Modern Age</em>. New Haven [Conn.]: Yale University Press, 2010.
+
+[btil] Tillett, Barbara. <em>What is FRBR?</em> Washington, DC, Library of Congress, 2003.
+
+[carlyle] Carlyle, Allyson. Understanding FRBR as a conceptual model: FRBR and the Bibliographic Universe [version abridged by Lisa M. Fusco]. In: <em>Bulletin of the American Society for Information Science and Technology</em>. 2007. Vol. 33, No. 6. P. 12-16. ISSN 1550-8366. Available from World Wide Web: <a href="http://www.asist.org/Bulletin/Aug-07/Bulletin_AugSep07.pdf">http://www.asist.org/Bulletin/Aug-07/Bulletin_AugSep07.pdf</a>.
+
+[carlyle2006] Carlyle, Allyson. Understanding FRBR as a Conceptual Model: FRBR and the Bibliographic Universe. <em>Library Resources and Technical Services</em>, v. 50, no. 4 (October 2006): 264-273.
+
+[calhoun] Calhoun, K. (2006). The Changing Nature of the Catalog and Its Integration with Other Discovery Tools. Available at http://www.loc.gov/catdir/calhoun-report-final.pdf
+
+[chen]Chen, Peter Pin-Shan. <em>The Entity-Relationship Model--Toward a Unified View of Data</em>. ACM Transactions on Database Systems, v. 1, n. 1, March 1976, pp 9-36
+
+[chronAm] Chronicling America. http://datahub.io/dataset/chronicling-america
+
+[cutter1904] Cutter, C. a. (1904) Rules for a dictionary catalog. 4th edition, re-written. Washington, DC, US Bureau of Education, Special Report on Libraries -- Part II.
+
+[denton] Denton, William. "FRBR and the History of Cataloging." Understanding FRBR: What It Is and How It Will Affect Our Retrieval. Ed. Arlene G. Taylor. Westport, Connecticut: Libraries Unlimited, 2007.
+
+[doerr2006] Doerr, M. (2006). Modelling Intellectual Processes : The FRBR - CRM Harmonization 1 Introduction 2 The Harmonization Project 3 Selected Results.
+
+[doerr]Doerr, Martin. FRBR Tutorial: slides by Martin Doerr, last updated January 2008 "http://www.cidoc-crm.org/docs/2008-01-25_FRBR_tutorial.ppt
+
+[dunsire] Dunsire, G. (2012). Representing the FR Family in the Semantic Web. <i>Cataloging &amp; Classification Quarterly</i>, <i>50</i>(5-7), 724–741. doi:10.1080/01639374.2012.679881
+
+[dunsire2013] Dunsire, G. (2013) Resource and Work, Expression, Manifestation, Item. 28 July, 2013. Amended 6 October 2013, following comments by Patrick Le Boeuf and discussion at IFLA 2013. 6 p.
+
+[eisenstein] Eisenstein, Elizabeth L. <em>The Printing Press As an Agent of Change: Communications and Cultural Transformations in Early Modern Europe, Volumes I and Ii</em>. Cambridge [England: Cambridge University Press, 1979.
+
+[fabiodiag] Shotton, David. <em>Extending FRBR within FaBiO</em>. June 29, 2011. http://opencitations.wordpress.com/2011/06/29/extending-frbr-within-fabio/
+
+[frad]
+
+[frbr] IFLA Study Group on the Functional Requirements for Bibliographic Records. (2009). <i>Functional Requirements for Bibliographic Records</i>. Retrieved from http://archive.ifla.org/VII/s13/frbr/frbr_2008.pdf
+
+[frbrcore] Expression of Core FRBR Concepts in RDF. http://vocab.org/frbr/core.html
+
+[frbroo] Bekiari, C., Doerr, M., &amp; Le Boeuf, P. (2012). <em>FRBR: object-oriented defintion and mapping to FRBRer, v.1.0.2</em> (p. 153).
+
+[frbroo2013] International Working Group on FRBR and CIDOC CRM Harmonisation. <em>FRBR, object-oriented definition and mapping from FRBRer, FRAD and FRSAD. Version 2.0</em>. May, 2013. http://cidoc-crm.org/docs/frbr_oo//frbr_docs/FRBRoo_V2.0_draft_2013May.pdf
+
+[genette] Genette, Gérard. <em>Paratexts: Thresholds of Interpretation</em>. Cambridge: Cambridge University Press, 1997.
+
+[hebis] HeBIS - Bibliographic resources of the Library and Union Catalogues of Hessen and part of the Rhineland Palatinate. http://datahub.io/dataset/hebis-bibliographic-resources
+
+[indecs2000] Rust, G., &amp; Bide, M. (2000). <em>The &lt;indecs&gt; metadata framework; Principles , model and data dictionary</em> (p. 49).
+
+[infelise] Infelise, Mario. <em>I Libri Proibiti: Da Gutenberg All'encyclopédie</em>. Roma ; Bari: Laterza, 1999.
+
+[isbd] <em>International Standard Bibliographic Description (isbd)</em>. München: K.G. Saur, 2007.
+
+[ISBDreview] http://www.ifla.org/about-the-isbd-review-group
+
+[jones] Jones, E. (n.d.). The FRBR Model As Applied to Continuing Resources. <em>Library Resources and Technical Services</em>, <em>49</em>(4), 228–242.
+
+[jsc5] Delsey, T. (2009). RDA Database Implementation Scenarios. 5JSC/Editor/2/Rev, 1 July 2009
+
+[lavoie] Bennett, Rick; Brian F. Lavoie; Edward T. O'Neill. The concept of a work in WorldCat: an application of FRBR. Library Collections, Acquisitions, and
+Technical Services 27,1 (Spring 2003).
+
+[lcfobc]<em>On the Record: Report of The Library of Congress Working Group on the Future of Bibliographic Control</em> http://www.loc.g 0-7890-2799-2. Published simultaneously as <em>Cataloging &amp; Classification Quarterly,</em> 2005, Vol. 39, No. 3-4. ISSN 0163-9374. Abstract available from &lt;<a href="http://catalogingandclassificationquarterly.com/ccq39nr1-2.html">http://catalogingandclassificationquarterly.com/ccov/bibliographic-future/news/lcwg-ontherecord-jan08-final.pdf</a>
+
+[lcrelators] MARC Code List for Relators. http://loc.gov/marc/relators/
+
+[leboeuf] Le Boeuf, P. (2012). Foreword. <em>Cataloging &amp; Classification Quarterly</em>, <em>50</em>(5-7), 355–359. doi:10.1080/01639374.2012.682001
+
+[leboeuf2005] Le Boeuf, P. (2005).Musical Works in the FRBR Model or "Quasi la Stessa Cosa": Varitaions on a Theme by Umberto Eco. <em>Cataloging &amp; Classification Quarterly</em>, <em>39</em>(3-4), 103-124. doi:10.1080/01639374.2012.682001
+
+[lerner] Lerner, Frederick A, Stuart B. Schimmedl, and Caroline F. Schimmel. <em>The Story of Libraries: From the Invention of Writing to the Computer Age</em>. New York: Continuum, 2001.
+
+[lubetzky2000] Lubetzky, Seymour, Tschera H. Connell, and Robert L. Maxwell. <em>The Future of Cataloging: Insights from the Lubetzky Symposium : April 18, 1998, University of California, Los Angeles</em>. Chicago: American Library Association, 2000
+
+[lubetzky] Lubetzky, Seymour, Elaine Svenonius, and Dorothy McGarry. <em>Seymour Lubetzky: Writings on the Classical Art of Cataloging</em>. Englewood, Colo: Libraries Unlimited, 2001.
+
+[madison] Madison, Olivia M.A. The origins of the IFLA study on Functional Requirements for Bibliographic Records. In: LE BŒUF, Patrick. Ed. <em>Functional Requirements for Bibliographic Records (FRBR): Hype, or Cure-All?</em> [printed text]. Binghamton, NY: the Haworth Press, 2005.
+
+[maxwell] Maxwell, Robert L. <em>Frbr: A Guide for the Perplexed</em>. Chicago: American Library Association, 2008.
+
+[murphy] Murphy, Gregory L. <em>The Big Book of Concepts</em>. Cambridge, Mass. [u.a.: Bradford Books [u.a., 2004.
+
+[murray] From Moby Dick to Mashups (Revised). http://www.slideshare.net/RonMurray/from-moby-dick-to-mashups-revised
+
+[noerr] Noerr, Peter, et al. User Benefits from a New Bibliographic Model: Follow-up of the IFLA Functional Requirements Study.1998. http://archive.ifla.org/IV/ifla64/084-126e.htm
+
+[oneill] Aggregates as Manifestation; O'Neill &amp; Zumer Proposal. 2009. http://www.ifla.org/files/assets/cataloguing/frbrrg/aggregates-as-manifestations.pdf
+
+[oneil2011] Final Report of the Working Group on Aggregates. Chair, Ed O'Neill. September 12, 2011
+
+[panizzi1841] Panizzi, Antonio. Rules for the compilation of the catalogue. In: Catalogue of Printed books in the British Museum, volume 1. London, British Museum, 1841. pp. v-ix.
+
+[pisanskizumer]
+[1] <a href="http://www.ff.uni-lj.si/oddelki/biblio/oddelek/osebje/dokumenti/pisanskizumer1a.pdf">http://www.ff.uni-lj.si/oddelki/biblio/oddelek/osebje/dokumenti/pisanskizumer1a.pdf</a>, published in <em>Journal of Documentation</em>, 2010, vol. 66, no. 5, str. 643-667 [2] <a href="http://www.ff.uni-lj.si/oddelki/biblio/oddelek/osebje/dokumenti/pisanskizumer2a.pdf">http://www.ff.uni-lj.si/oddelki/biblio/oddelek/osebje/dokumenti/pisanskizumer2a.pdf</a>, published in <em>Journal of Documentation</em>, 2010, vol. 66, no. 5, str. 668-680
+
+[scherzo] Juliet L. Hardesty, Steven Harris, Anna Coogan, Mark Notess.<em> Scherzo Usability Test Report: Testing a FRBR Search Interface for Music. </em> Indiana University. January 3, 2012.
+
+[schmidt] Schmidt, R. (2012). Composing in Real Time: Jazz Performances as “Works” in the FRBR Model. <em>Cataloging &amp; Classification Quarterly</em>, <em>50</em>(5-7), 653–669. doi:10.1080/01639374.2012.681601
+
+[serrai1988] Serrai, Alfredo, and Gabriella Miggiano. <em>Storia Della Bibliografia</em>. Roma: Bulzoni, 1988.
+
+[serrai1995] Serrai, Alfredo, and Maria Cochetti. <em>Guida Alla Biblioteconomia</em>. Firenze: Sansoni, 1995.
+
+[serrai2005] Serrai, Alfredo, and Fiammetta Sabba. <em>Profilo Di Storia Della Bibliografia</em>. Milano: S. Bonnard, 2005.
+
+[simsion] Simsion, Graeme C, and Graham C. Witt. <em>Data Modeling Essentials</em>. Amsterdam: Morgan Kaufmann Publishers, 2005.
+
+[smiraglia2001] Smiraglia, Richard P. <em>The Nature of "a Work": Implications for the Organization of Knowledge</em>. Lanham, Md: Scarecrow Press, 2001.
+
+[smiraglia2012] Richard P. Smiraglia (2012) Be Careful What You Wish For: FRBR, Some Lacunae, A Review, Cataloging &amp; Classification Quarterly, 50:5-7, 360-368, DOI: 10.1080/01639374.2012.682254
+
+[spar] Semantic Publishing and Referencing. http://sempublishing.sourceforge.net/
+
+[taniguchi2002] Shoichi Taniguchi, (2002) "A conceptual model giving primacy to expression-level bibliographic entity in cataloging", Journal of Documentation, Vol. 58 Iss: 4, pp.363 - 382. http://dx.doi.org/10.1108/00220410210431109
+
+[taniguchi2003] Taniguchi, S. (2003). A Conceptual Model Giving Primacy to Text-level Bibliographic Entity in Cataloging : A Detailed Discussion, (January).
+
+[taylor] Taylor, Arlene G. <em>Understanding Frbr: What It Is and How It Will Affect Our Retrieval Tools</em>. Westport, Conn: Libraries Unlimited, 2007.
+
+[tillett] Tillett, B. (2003). <em>What is FRBR? A conceptual model for the bibliographic universe.</em> (p. 8). Washington, DC. http://www.loc.gov/cds/downloads/FRBR.PDF
+
+[tillett2003] Tillett, Barbara. The FRBR Model: A presentation. ALCTS Institute on Metadata and AACR2, April 4-5, 2003, San Jose, CA. http://www.loc.gov/catdir/cpso/<strong>frbr</strong>eng.pdf‎
+
+[tillettnd] Definition of Aggregates as Works; Tillett Proposal.
+
+[tillett1994] Tillett, B. B. (1994). IFLA Study on the Functional Requirements of Bibliographic Records : Theoretical and Practical Foundations, (April), 1–5.
+
+[tillett2005] Tillett, Barbara. FRBR and Cataloging for the Future. In: LE BŒUF, Patrick. Ed. <em>Functional Requirements for Bibliographic Records (FRBR): Hype, or Cure-All?</em> [printed text]. Binghamton, NY: the Haworth Press, 2005. pp. 197-205
+
+[tillett2009] Definition of Aggregates as Works. 2009. http://www.ifla.org/files/assets/cataloguing/frbrrg/aggregates-as-works.pdf
+
+[wiesenmueller2012] Wiesenmüller, Heidrun. (2012) <a title="Some comments on the Final Report of the FRBR Working Group on Aggregates" href="http://www.mendeley.com/research/some-comments-final-report-frbr-working-group-aggregates/">Some comments on the Final Report of the FRBR Working Group on Aggregates</a>.
+
+[wiesenmueller1] Wiesenmüller, Heidrun. (2012) Additional Diagrams
+
+[wiesenmueller2] Wiesenmüller, Heidrun. (2012) Additional Diagrams #2
+
+[wiesenmueller3] Wiesenmüller, Heidrun. (2012) Additional Diagrams #3
+
+[wilson] Wilson, Patrick. <em>Two Kinds of Power: An Essay on Bibliographical Control</em>. Berkeley: University of California Press, 1968.
+
+[yee1994] "What is a Work? Part 1, The User and the Objects of the Catalog." Cataloging &amp; Classification Quarterly 1994; 19:1:9-28.
+
+[Yee 2007] Yee, M. M. (2007). FRBR and Moving Image Materials : Content ( Work and Expression ) versus FRBR and Moving Image Materials : Content ( Work and Expression ) versus Carrier ( Manifestation ). In <em>Understanding FRBR</em> (pp. 117–130).

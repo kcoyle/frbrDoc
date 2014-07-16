@@ -1,0 +1,179 @@
+
+<h2>FRBR Statisical Studies</h2>
+		<p>More than one study has been done to try to quantify the proportion of works that are in defined bibliographic relationships with other works. Smiraglia [smiraglia1992] studied a small number of general academic libraries as well as libraries specializing in music and theology. Not surprisingly, the specialist libraries showed different patterns of bibliographic families. Vellucci's study [vellucci1997] of a music library showed that over 85% of the holdings (manifestations) were in a bibliographic family. In a general academic library the percentage may be as much as 50%. In OCLC's WorldCat database, which is a more varied catalog due to its international nature, about 30% of manifestations are in a bibliographic family. </p>
+<p>Smiraglia also shows that having family members is a function of time: older works are more likely to be in families. [smiraglia2001, p. 89] This is rather obvious but a good point to prove: that works go out of print and are re-published and re-purchased; and that derivative works occur only after time has shown that the work is &quot;worthy&quot; of further study and derivation. In the theological collections studied by Smiraglia the mean age of works was 114 and 125 years, while a general collection had a mean age of 32 years. Smiraglia's studies also showed that form and genre were not predictors of family relationships in the libraries studied.</p>
+<p>Without going into greater detail (although more studies could provide interesting new figures), one can conclude that the nature of the material being collected has a great influence on the incidence and size of bibliographic families. None of the studies, however, looked at non-academic libraries, whose collections are not analogous to academic libraries, nor did they analyze topic areas other than theology and music. With a reminder that these are studies of library holdings not of publication patterns, one could expect that where scientific works are updated and republished, older editions might not remain on the shelves. As I found with the database design book cited in the FRBR document, which is now in its third edition, not one copy of the version from 1984 remained in the OCLC database. Small and medium public libraries may be expected to have fewer family members due to  the exigencies of limited shelf space and the mission  to serve the reading, listening and viewing public more than research activities. </p>
+<p>Any claims to increased efficiency for cataloging through use of the FRBR bibliographic entity structure must take into account the variation in family relationships based on library type and subject matter.</p>
+<p>Through its automated clustering of current bibliographic records into Works, OCLC  shows as of the June, 2011 annual report:<br />
+</p>
+<table cellpadding="4">
+  <tr>
+    <td> Languages</td>
+    <td> 485</td>
+  </tr>
+  <tr>
+    <td> E-books</td>
+    <td> 14,089,964</td>
+  </tr>
+  <tr>
+    <td>Works </td>
+    <td>167,711,500</td>
+  </tr>
+  <tr>
+    <td>Manifestations (records)</td>
+    <td> 235,822,950</td>
+  </tr>
+  <tr>
+    <td>Total holdings</td>
+    <td> 1,735,365,613</td>
+  </tr>
+</table>
+<p>from: OCLC Annual Report, 
+  2010/2011, 
+  p. 14</p>
+<p>This reduces the file by 17%.</p>
+<p>This differs from the initial analysis of Manifestations and Works that was published in 2001 [lavoie], which at that time gave these numbers:</p>
+<table>
+  <tr>
+    <td>Manifestations (records)</td>
+    <td> 46,767,913</td>
+  </tr>
+  <tr>
+    <td>Works</td>
+    <td>32,000,000</td>
+  </tr>
+  <tr>
+    <td>Average number of Works per Manifestation</td>
+    <td>1.5</td>
+  </tr>
+  <tr>
+    <td>Single manifestation</td>
+    <td>78%</td>
+  </tr>
+  <tr>
+    <td>Number of works with 7 manifestations or less</td>
+    <td>99%</td>
+  </tr>
+  <tr>
+    <td>Number of works with more than 20 manifestations</td>
+    <td>1%</td>
+  </tr>
+</table>
+<p>At that time the file was reduced 32%. The enormous growth in OCLC during the period from 2001 to 2011 was due primarily to the batch loading of files from non-member libraries, in particular those of large non-US national and higher education libraries. This new figure appears to reflect the addition of many new Works resulting in a less uniform (and less US-centric) file. </p>
+<p>It should be obvious that the statistics in OCLC do not provide a measure of &quot;workness&quot; for the &quot;average&quot;  library. It also does not provide a measure of &quot;workness&quot; for global publishing, although it undoubtedly comes closer to than than any database.</p>
+<p>Although unscientific, I decided to look at a few books in a few US libraries to see what kind of results I got in terms of multiple copies of the same work. I started with the Harry Potter series, which has been translated into 70 or more languages. (Wikipedia says 67, but I found 71 in WorldCat.) That proved difficult, though, in part because it is a series and there is no reliable series search. However, flawed though it is, this is what I received:</p>
+<table width="75%" border="2" cellpadding="2">
+  <tr>
+    <th scope="col">Library</th>
+    <th scope="col">Number of languages</th>
+  </tr>
+  <tr>
+    <td>WorldCat</td>
+    <td>71</td>
+  </tr>
+  <tr>
+    <td>Berkeley Public Library</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Kansas City Library</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Columbus Ohio Public Library</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Library of Congress</td>
+    <td>6</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>Note that in some cases, for example with the Library of Congress, only one or two of the books was available in the languages other than English.</p>
+<p>I decided to try another recent popular book, Barack Obama's Dreams From my Father.</p>
+<table width="75%" border="2" cellpadding="2">
+  <tr>
+    <th scope="col">Library</th>
+    <th scope="col">Number of languages</th>
+  </tr>
+  <tr>
+    <td>WorldCat</td>
+    <td>31</td>
+  </tr>
+  <tr>
+    <td>Berkeley Public Library</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Kansas City Library</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Columbus Ohio Public Library</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Library of Congress</td>
+    <td>2</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>Then I looked at a well-known but not modern or popular book; something that many would call a &quot;classic&quot; (although not a classic in the sense of the Iliad): Tolstoy's War and Peace:</p>
+<table width="75%" border="2" cellpadding="2">
+  <tr>
+    <th scope="col">Library</th>
+    <th scope="col">Number of languages</th>
+  </tr>
+  <tr>
+    <td>WorldCat</td>
+    <td>37</td>
+  </tr>
+  <tr>
+    <td>Berkeley Public Library</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Kansas City Library</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Columbus Ohio Public Library</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Library of Congress</td>
+    <td>9</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>While we do not have FRBR-ization results for a wide range of libraries, we do know, however, that a large number of published items appear in only one Expression and therefore the Manifestation-Expression-Work ratio is 1:1:1. Using the 2001 OCLC figures, 53% of the manifestations are &quot;singlets&quot; of this type. The figure for 2011 should be higher. We also do not know what these figures mean for current cataloger workflow; in other words, how many previously described works a cataloger is likely to encounter when processing new items today. These figures only reflect the cumulated past, and do not reflect the present or future publishing output. </p>
+<p>-------- fix --------</p>
+<p>One of the primary reasons behind the development of FRBR was to create a more efficient enviornment for cataloging. This came out of the 1990 Stockholm IFLA meeting. The combination of lowered budgets and increased information resource output creates a perfect storm for libraries and especially their technical services departments. So it makes sense to ask whether FRBR is likely to increase cataloger efficiency.</p>
+<p>One of the difficulties in answering this question is that &quot;libraries&quot; are not a homogeneous group, and cataloging is not the same activity throughout the library world. In particular, national libraries and large research libraries probably do the greatest share of original cataloging, and the most detailed cataloging. (It is difficult to find actual statistics relating to original and copy cataloging, as well as any measures of cataloger output. While there is some evidence that these figures exist for some institutions, they are not made public.) A considerable number of smaller libraries do only copy cataloging. Others purchase a great deal of their cataloging from the library vendors who supply their materials. Within the libraries that rely heavily on copy cataloging (which is nearly all except perhaps the national libraries) there is a great deal of variation in how much editing is done of the cataloging data.</p>
+<p>There is also a wide variation in the amount of sharing of cataloging data takes place. The greatest sharing probably is among the OCLC member libraries. These libraries also have the largest database from which to select catalog data. (That latter is both a plus and a minus, depending on the uniqueness of the item being sought. Searches in a huge database like WorldCat for items that are widely held and oft re-published can be time consuming if a unique key like the ISBN is not available.)</p>
+<p>Using the statistics that we have from OCLC, we know that less than half of the manifestations that catalogers have encountered in the past appear in multiple expressions, and there are a small number of Works (1% of the total) that appear in a large number of Manifestations/Expressions. We also know that over half of the manifestations represent a single Expression and therefore a single Work. Regardless of the number of Expressions, every new Manifestation must be described. The model for this description is ISBD. Therefore there is no change in terms of cataloging efficiency in the description of Manifestations; the only new efficiencies would be found in the aspects of the bibliographic record that describe the Expression and the Work. There are three possible situations that a cataloger doing original cataloging may encounter:</p>
+<ol>
+  <li>A manifestation that represents a new Expression and a new Work. This would presumably be the case for newly published first editions. The cataloger  creates the necessary data elements for theManifestation, the Expression and the Work.</li>
+  <li>A manifestation that represents a new Expression of an existing Work.The cataloger creates the necessary data elements for the Manifestation, the new Expression, and links to the existing Work.</li>
+  <li>A manifestation that represents an existing Expression (and thus its related Work).The cataloger creates the Manifestation, and links the manifestation to the existing Expression.</li>
+</ol>
+<p>All of these represent the activities of original cataloging. It does not appear that a copy cataloger's activity is greatly changed from what it is today, which is to locate an existing bibliographic record for the Manifestation in hand and to utilize that data for the local catalog. [Note on &quot;copy cataloging&quot;: once an item has been cataloged in a bibliographic database, like OCLC or LC's catalog, other libraries that purchase the same item re-use the bibliographic data from that database. This is called &quot;copy cataloging,&quot; because the cataloger copies the bibliographic record rather than creating it. Creating a new bibliographic record is called &quot;doing original cataloging.&quot;]</p>
+<p>I have ignored here, quite consciously, the issue of manifestations containing more than one expression. This is a highly complex situation and would result in a long and non-conclusive side-bar to this current discussion. </p>
+<p>Whether or not FRBR is efficient for catalogers, and whether the existence of FRBR Work data saves time depends entirely on how often catalogers encounter situations #2 and #3 above. We only have statistics for Manifestations and Works, not Expressions, from the OCLC study, and that study presents a snapshot of the WorldCat database, which may not represent the bibliographic situations encountered on a daily basis by today's cataloger. Obviously, most older published Works have already been described, so what interests us is how often those are re-issued as new manifestations, and whether today's publishing patterns are producing more or fewer situations of re-use of Expressions and Works. In addition, catalogers in different types of libraries (for example, medium-sized public libraries vs. large research libraries) will encounter a different pattern of publication types. None of the above can be applied to catalogers of unique archival materials. Note also that there are some studies on using FRBR for cataloging music materials, which have a high degree of repetition of Works. </p>
+<p>It is necessary here to reflect on the effect of the changing nature of library materials from solely physical to digital. One of the motivations for reviewing library cataloging beginning in the early 1990's was the recognition that libraries now often receive the same content in more than one physical format. This was prescient at the time because only a few digital formats were commonly available. Today, with the increase in the use of ebooks, it is quite common for a library to hold both a physical and a digital copy of the same expression. The cataloging rules regard these as different manifestations, but some libraries have been loathe to confront users will multiple records for the same content in different forms. This was the problem called &quot;multiple versions&quot; or &quot;mulver&quot; that was heavily discussed in the 1990's. Many libraries have &quot;solved&quot; this problem by providing links to digital versions on the records for the hard copy version, thus providing the user with a single point of entry for either format. This violates the cataloging rules, however, since a manifestation is defined by its physical format. Using FRBR as a hierarchy means that all of the multiple physical versions can be associated with a single expression that is subordinate to a single work. This could allow grouping of multiple versions under work or expression in library catalogs, while still adhering to the emphasis on physical formats that pervade the cataloging rules. Of course, there could be many ways to achieve this kind of grouping; the FRBR E-R structure is only one of those.</p>
+<p>Therefore, in relation to catalogers, we need much more data before we can answer the question of whether FRBR Work (and Expression) save cataloger time.</p>
+<h2>Does FRBR promote efficient sharing of cataloging?</h2>
+<p>Another question, however, is how well FRBR works for sharing of bibliographic data. The library catalog has always represented a combination of two quite different functions: the creation of an inventory of what the library owns, and the creation of a bibliographic universe out of those holdings. In the early days of modern cataloging, beginning in the middle of the 19th century, each library was an entirely separate entity, and the bibliographic universe was limited to the holdings of that library. This changed when it became possible to share cataloging copy, which began very early in the 20th century with the Library of Congress card sets that libraries could purchase. This changed the nature of cataloging because no longer was a library making decisions based solely on its own collection; in fact, the decisions of the Library of Congress became the decisions of all libraries using those cards. However, in spite of the general view of library cataloging as the application of a widely shared set of rules, the range of library types and the needs of library users is so vast that no one set of rules can be appropriate for all.</p>
+<p>Perhaps an example might be useful here. In the greater bibliographic world, there is a work by German author Thomas Mann with the title <em>Der Zauberberg</em>. This is indisputable. In a research library in the US one is likely to find a copy of that work in German, as well as one or more copies in English. A very large research library might also have this in other languages as well. Gathering these together under the original work title creates a logical grouping for a scholar seeking to study the work, although unless one is studying the work for linguistic purposes, only one of those language versions will be of interest. Now let's look at a public library in an urban area of the US West. This library serves readers of English, Spanish, and Chinese. There is no significant German population, and scholars make use of the university library nearby. Each reader will seek books in his or her preferred language. It obviously does not make sense to gather these translations together under the original German title because no one will be seeking that title. It may not make sense to gather them together at all, since each reader will focus on one or maybe two languages. However, in a shared cataloging environment, the cataloging copy will reflect the broader view and in many cases there will be a work title for the original German work, which, by the way, the public library does not hold. </p>
+<p>To me this illustrates the tension between knowledge of the greater bibliographic universe and navigation within the catalog of a single library. This conflict could become even greater with the application of FRBR relationships as links. The FRBR relationships are universally bibliographic in nature; they definitely go beyond the inventory role of the library catalog. In a large research library the holdings may be extensive enough that the disconnect between bibliography and inventory is at tolerable levels. Even so, what is the library to do with relationships to items it does not own? </p>
+<p>The FRBR document itself provides an interesting example of this. The document cites a book by Graeme Simsion titled <em>Data modeling essentials</em>, published in 1994. Both Harvard and Stanford show only the third edition in their catalogs (2004). Presumably there was a second edition as well, and that each of these editions would be an expression of a work, and the relationship between the expressions would be &quot;has revision/is revision of.&quot; However, the libraries have discarded the earlier revisions, so any links created would now be dead ends. </p>
+<p>There is an ideal bibliographic universe where every work ever produced is placed in its proper place, and the whole can be navigated intelligently. There is no real version of that bibliographic universe, however. For all that there is a desire to use today's technology to create the &quot;library of everything&quot; the &quot;everything&quot; has a lot of ragged edges. It also has a lot of individual libraries with particular popoulations that need to be served. FRBR operates at an abstract level which would need to be reinterpreted for the many thousands of use cases that exist in libraries, and still allow them to share cataloging copy. </p>
+<p>In pre-FRBR times libraries have learned to balance sharing of cataloging copy with individual needs. Since most original cataloging is done by large academic or research institutions, the cataloging copy available to smaller and more general libraries has characteristics that do not serve their users. For example, no public library catalog that I have visited makes use of the uniform titles that exist in cataloging copy. Their systems ignore them in display. The uniform titles of the AACR era cataloging are what become Work titles under FRBR concepts (and thus under RDA). These will continue to be ignored. But what will happen when cataloging copy contains relationships between bibliographic items that the library does not hold? Bibliographic relationships in one context may not be useful in another?</p>
+<p>This tells me that we need to rethink the relationship between the library catalog and the bibliographic universe. I can imagine a multi-tiered design that can move a user from the inventory of the single library to related bibliographic items that are nearby or otherwise available (e.g. for purchase). I can also imagine a linked bibliographic space that is not dependent on library holdings, but that is about the relationships between bibliographic items. This would need to go beyond FRBR, because some of the more useful relationships (&quot;cites&quot; &quot;quotes&quot;) are not included there. Connecting this &quot;cloud&quot; of bibliographic relationships then to actual availability in specific libraries or bookstores would be essential. </p>
+<p>FRBR appears to address the abstract bibliographic universe, which may or may not serve the needs of libraries. The connection between bibliography and catalog would have to be made. </p>
+<p>In today's bibliographic records, and this can also be seen in the examples provided in RDA, many of the relationships that we assume will be links in FRBR are presented as notes (&quot;Translation from the German.&quot; &quot;Based on the book by ...&quot;) or as assumed from edition statements (&quot;3rd ed., revised and enlarged&quot;). It would be great if every library catalog entry provided additional information that would help the user understand better the retrieved item. It would also be great if catalogs gave biographical and other information about an author. There is no reason not to provide the entire list of an author's writings even if the library does not hold them all. The library catalog could be both an inventory an encyclopedic in nature. This would, however, require something other than the entities and  relationships enumerated by FRBR. And in fact, library catalogs are already moving in this direction, adding biographical information for authors, descriptions and reviews, and allowing users to tag works with terms that aren't used in library cataloging (&quot;Great beach read!&quot;).</p>
+
+
+This seems to say that the bibliographic universe is created by the fact of things being held by a library (or represented in the catalogue). It implies that there were multiple, small, and disconnected bibliographic universes.
+
+

@@ -1,0 +1,120 @@
+
+				<h2>Bibliographic Data Before FRBR</h2>
+	One of the primary goals of library cataloging is that of "collocation." Collocation means literally "co-location," locating things together. Collocation allows a catalog user to find together materials that have the same author, title, or subject.
+
+"Collocation" in library cataloging takes place through the position of the items in the alphabetically ordered list of the catalog. To overcome differences in how names of creators and titles of works are presented in actual publications, collocation within the ordered list is accomplished by using standardized "headings." These are controlled text strings for the bibliographic data that will be represented in the catalog, such as the names of authors, titles, and subjects. Already this presents some problems in today's catalogs because with direct access to search terms and keywords in catalogs stored as databases the user rarely encounters the type of linear list that was the only search method in the physical catalog. However, the cataloging rules that are the current standard continue to support the concept of collocation based on identifying strings.
+
+Collocation may sound simple, but in fact there are numerous adjustments that must be made in order to bring together items that the cataloging rules deem to be the same bibliographically. In particular, the collocation of works requires the cataloger to identify that different resources represent the same work, but to also provide a heading that will bring the works together in the catalog.
+
+Collocation for works fails in some cases in spite of the normalization of author names because titles of publications of the same work can vary. In modern works this is most often true for translations:
+<pre>      The magic mountain
+      La montagne magique
+      Der Zauberberg</pre>
+Older and ancient works, such as the works of Shakespeare or early sagas that were written before the language or dialect was normalized, may also have titles that have varied over time, like:
+<pre>      Hamlet 
+      Hamlet, Prince of Denmark
+      The tragedy of Hamlet, Prince of Denmark</pre>
+To collocate these in the catalog as variations of a single work, an additional title is added between the author and the title of the printed book. This is called a "uniform title" and it serves as a normalized title that represents the bibliographic work. Where known, the uniform title represents the title of the original publication of the work. In other cases, the title is a selected title, such as "Hamlet," that contains the commonly known name of a work that was published under many different names, especially in its early period. The uniform title can also contain the language of the translation and/or the date of publication, to distinguish between different versions.
+<table width="75%" border="2" cellpadding="6">
+<tbody>
+<tr>
+<td>
+<pre>Mann, Thomas
+  [Zauberberg. English]
+  The magic mountain
+
+Mann, Thomas
+  [Zauberberg. French]
+  La montagne magique
+
+Mann, Thomas
+  Der Zauberberg</pre>
+</td>
+<td>
+<pre>
+Shakespeare, William
+  Hamlet
+
+Shakespeare, William
+  [Hamlet]
+  Hamlet, Prince of Denmark
+
+Shakespeare, William
+  [Hamlet]
+  The tragedy of Hamlet, Prince of Denmark
+
+Shakespeare, William
+  [Hamlet. Italian]
+  Amleto</pre>
+</td>
+</tr>
+</tbody>
+</table>
+There are a number of things to note about this practice. One is that the practice sometimes collocates what FRBR would define as Expressions of a Work (those in a different language) and sometimes the Work (Shakespeare example). The uniform title represents the Work with a "Work title" combined as needed with something that distinguishes between Expressions. In the above case that distinction is made with the languaage, but for some older works that appear in different versions in the same language, such as Shakespeare, the expression may be represented by either a date or both a language and a date.
+
+However, in the current cataloging rules, any publications whose title would be the same as the uniform title are not given a uniform title, and the majority of publications have only a single edition, and thus need no uniform title. AACR2 explains it this way:
+<blockquote>The need to use uniform titles varies from one catalogue to another and varies within one catalogue. Base the decision whether to use uniform titles in a particular instance on:
+
+a) how well the work is known
+b) how many manifestations of the work are involved
+c) whether the main entry is under title
+d) whether the work was originally in another language
+e) the extent to which the catalogue is used for research purposes.
+
+Although the rules in this chapter are stated as instructions, apply them according to the policy ofthe cataloguing agency.
+(pp 441-442)</blockquote>
+As you can see, the exceptions to the creation of a title for a work are both numerous and subjective. Bringing out the "workness" of a resource is the exception rather than the rule, and many libraries make little or no use of uniform titles for the work.
+
+The first exception is that any item that has been published in only one edition or in only one language, is not assigned a work title. Even the main proponent of identifying works, Seymour Lubetzky, stated that "... wherever an author is identified in his works by one particular name and a work is represented under one title only..." nothing more needs to be done to identify the author and the work.
+
+In addition, the expression (such as the edition) of a work is not given a work title in cases where the titles of the expressions do not interfere with collocation, as in reprintings or updated editions:
+<ul>
+	<li>Eysenck, Michael W, and Mark T. Keane. <em>Cognitive Psychology: A Student's Handbook</em>. Hove [u.a.: Psychology Press, 2010. 6th edition</li>
+	<li>Eysenck, Michael W, and Mark T. Keane. <em>Cognitive Psychology: A Student's Handbook</em>. Hove [u.a.: Psychology Press, 2007. 5th edition</li>
+	<li>Eysenck, Michael, and Mark T. Keane. <em>Cognitive Psychology: A Student's Handbook</em>. Hove: Psychology Press, 2003. 4th edition</li>
+</ul>
+Thus, expressions are only identified through a heading in those cases where the expression is needed to modify a uniform title.
+
+Note also that, as shown in the Thomas Mann example, the catalog entry for the item <em>Der Zauberberg</em> does not require a uniform title because the uniform title would be the same as the title of the book. This complicates the rules for sorting in catalogs since it requires a cascading sort of uneven membership, where the "real" title must sort before the uniform title that contains the exact same characters.
+
+Note that among the exceptions to the creation of uniform titles, how such titles would or would not serve users of the catalog is not mentioned. In reality, service to users is a consideration. Uniform titles are often not used in libraries that are unlikely to have the same work in multiple languages or versions, or whose users would not likely seek the book under the original title, such as many public libraries. These libraries display the title of the book as present on the book itself in the language of the text. Such a library may have copies of Tolstoy's War and Peace in English, Spanish and Chinese, but not in Russian because the library does not serve a Russian-speaking population. Therefore, each translation is found under the title in the translated language, which is logically where readers would look to find the book:
+<pre>    Guerra y paz
+    War and peace
+<span dir="ltr" id="baseDirectionInsertComponent"><span id="resultsAnyComponent">    戰爭與和平 </span></span></pre>
+... but not under the original Russian title, <span id="result_box" lang="ru" xml:lang="ru">война и мир</span>.
+
+The practice of maintaining uniform titles in library catalog records has fallen out of use in some libraries as they moved from card catalogs to online catalogs, since online catalogs make use of direct keyword searching rather than alphabetic collocation as their main finding tool. However, the display of retrieved sets in online may be in author/title alphabetical order. An unfortunate aspect of much online catalog software is that each retrieved item is displayed only once in the resulting display. If a library does use uniform titles it therefore must decide whether an alphabetically ordered record display will use the uniform title in each case, (thus collocating all versions of the Thomas Mann book under "Z," which will be a disservice to many users who are looking for the book under "M") or will not use the uniform title, in which case no collocation of the work takes place.
+
+The application of the concept of work to library catalog data is therefore uneven in practice. Individual libraries or library groups can and do opportunistically decide whether to make use of this feature based on the criteria in the cataloging rules, plus the perceived needs of their users and the capabilities of their catalog software. Key to our discussion of FRBR is that fact that prior to FRBR the work and the expression were considered bibliographically significant only under certain circumstances. In part this was because the creation of a specific heading for the work had effects on the catalog and the user experience that were either deemed unnecessary or even detrimental to the users of that library.
+
+While important conceptually, as we've seen here, direct presentation of the work in cataloging is limited to a relatively small number of cases in libraries today. Taniguchi points out that in current cataloging the work does not "perform a key role in describing an item being cataloged, although its existence is supposed to be a prerequisite in making a bibliographic description. By contrast, <em>work</em> is the presupposition in selecting and assigning headings for an item. Almost all of the headings, however, do not represent <em>work</em> itself." [[taniguchi2003] p. 9]
+<h3>From Collocation to Identifiers</h3>
+The concept of collocation will be strange to anyone who has grown up with computer technology. Before there were databases and identifiers, when the data was organized in a linear card catalog, the only way to bring together descriptions that had some "sameness" was to have them exist before and after each other in the linear list. Recognition of the sameness was delegated to the searcher at the catalog, who was to pay attention to the headers on the cards as they progressed in order. Thus it was expected that the user would traverse a list like this and see the commonality that made these particular entries a logical group:
+<pre>Newton, Sir Isaac
+   [Principia] Philosophiae naturalis principia mathematica...
+   [Principia. English] The mathematical principles of natural philosophy...
+   [Principia. French] Principes mathématiques de la philosophie naturelle...
+   [Principia. 1-3] The first three section of Newton's Principia...
+   [Principia. 1-3] The three first sections...of Newton's Principia...</pre>
+(From [lubetzky] p. 329]
+
+With the limitations of the card catalog, this was the only way to connect works. Lubetzky, writing prior to the actual use of computers to manage library catalogs, make the leap from organization by string-based headings to organization through identifiers. He proposed that at some time in the future catalogers could spend less time developing headings that would sort together, because:
+<blockquote>"... if the catalog is not to be printout out but stored in the computer on-line and consulted via the computer, then it will be found that the objective of the rule could be accomplished more easily and simply by identifying the different names and pseudonyms used by an author as designating the same author and devising a program by means of which an inquiry for the works of an author by any one of his names will produce a listing of all of his works published under the different names. The gain achieved in this way would be a material simplification of the process of cataloging resulting from elimination of the problem of choice of name by which an author is to be identified in the catalog." [lubetzky, p. 324]</blockquote>
+And he goes on to see similar advantages for titles and for subjects. This insight of Lubetzky's helps us understand the goal of heading creation as an early form of identification, and the alphabetical sort being followed by the catalog user as a query against what today is a database.
+
+Not surprisingly, Lubetzky did not follow this further to surmise that there could be an identifier for a work that would make it possible to retrieve all of the editions of a work, but that would be a logical conclusion.
+
+Following the principles developed by Lubetzky, one could argue that "workness" is always present even if it is not used as an organizing principle in the current catalog. Given the examples above one can see where it could be useful to include a way to acknowledge the work family in library metadata but in a way that does not lead to awkward and hard to decipher headings, and ideally, does not add to the burden of catalogers in libraries where the workness may be of use only on occasion.
+
+We will also see in later sections that while one can argue that all creations with an intended message or communication can be said to be possessed of "workness," the semantics of the work concept within the resource is variable both within a library context but also can be significantly different for different types of materials that co-exist in the library catalog.
+
+In our discussion of FRBR, this becomes especially significant when the FRBR conceptual model is interpreted as a data model for the bibliographic record, because in the FRBR model description of the work is mandatory.
+
+
+
+Example:  A user may know "Journal of felines" (title proper) only by a variant title "Journal of cats and other felines", and if the search results show only the title proper in the hit list, they may think that the title they want isn't there.  Or, if they truncate the search to "journal of cats" (still thinking of "Journal of cats and other felines" and unaware that "Journal of cats" was ever a variant), and the hit list gives an entry for "Journal of cats" because that is the first one of the alphabetized list of entries in the record that matches the search, they may think that what they're looking for isn't there.
+
+I believe that the move away from alphabetized sequences of entries (as found in a card catalog), and the move toward showing the user a listing of brief record displays as the ONLY kind of initial search result, can make it sometimes very difficult for someone to find a specific thing they are looking for.  Especially when they have to slog through the search results, sometimes looking at the detailed views of the records.
+
+
+At any rate, I think the problem of how to hold onto (or recapture) the best aspects of dictionary catalog indexes in modern discovery tools is something that needs a lot more research and experimentation.  Like, if the user is searching for a title, let the user choose an option that will include all "title" elements (title proper, variant title, etc.) matching the query in an alphabetized list, no matter how many of them may lead to the same single resource.  That way, the user will be able to recognize the title in their mind, and go to it.  At the present moment, card catalogs really outperform most online tools in this respect (except when it comes to speed...)

@@ -1,0 +1,23 @@
+
+				<h2>The FRBR Terms of Reference</h2>
+		The outcomes of the FRBR study are described as an entity-relation model (E-R model), and in particular a conceptual E-R model. Here it is important to note that the final "R" in FRBR is "Records", and that the group was tasked to defined the functional requirements for bibliographic <em>records</em>. Given that, it makes sense to ask how the group came to be using a methodology that was developed as an early design step leading to a relational database design.
+
+Use of entity-relation modeling was a requirement stated in the <em>Terms of Reference</em>, which was authored by Tom Delsey and Henriette Avram. The <em>Terms</em> even include a reference to <em>Data Analysis: The Key to Data Base Design</em> by Richard C. Perkinson, 1984. According to Olivia Madison, who was chair of the study group from 1991-1993 and again from 1995-1997:
+<blockquote>"As mentioned earlier, Delsey had originally authored, with Avram, the initial CDNL [nb: Conference of Directors of National Libraries] <em>Terms of Reference</em>, and was well versed in the research literature and potential applications of E-R modeling. In fact, it was largely due to Delsey's commitment to this modeling technique that it was explicitly included in the CDNL <em>Terms of Reference."</em> [madison, p. 21]</blockquote>
+The <em>Terms of Reference</em> were accepted at the 1992 IFLA Conference in New Delhi, after two additions were made by the Standing Committee of the Section on Cataloguing [madison, p. 22]:
+<ol>
+	<li>subjects were added to the list of entities</li>
+	<li>the Study Group was charged with proposing minimal level standards for bibliographic records</li>
+</ol>
+The Study Group would consist of "consultants" who were chosen to draft the report using the E-R modeling technique. The first consultants were Elaine Svenonius, Barbara Tillett, and Ben Tucker. Over the course of the work the group of consultants changed. Tom Delsey joined the group a year later when Tucker left. Later, Elizabeth Dulabahn of the Library of Congress was added.
+
+The consultants had four required tasks, as laid out in the Terms of Reference:
+<ol>
+	<li>Determine the full range of functions of the bibliographic record and then state the primary uses of the record as a whole.</li>
+	<li>Develop a framework that identifies and clearly defines the full range of <em>entities</em> (e.g., work, texts, subjects, editions and authors) that are the subject of interest to users of a bibliographic record and the types of <em>relationships</em> (e.g. part/whole, derivative, and chronological) that may exist between those <em>entities</em>.</li>
+	<li>For each of the <em>entities</em> in the framework, identify and define the <em>functions</em> (e.g., to describe, to identify, to differentiate, to relate) that the bibliographic record is expected to perform.</li>
+	<li>Identify the key <em>attributes</em> (e.g., title, date, and size) of each <em>entity</em> or <em>relationship</em> that are required for each specific <em>function</em> to be performed. <em>Attribute</em> requirements should relate specifically to the media or format of the bibliographic item where applicable.</li>
+</ol>
+The final requirement was assigned to the Study Group itself:
+<blockquote>5. For the National Libraries: for bibliographic records created by the national bibliographic agencies, recommend a basic level of functional that relates specifically to the <em>entities</em> identified in the framework the <em>functions</em> that are relevant to each.</blockquote>
+It is particularly interesting that the first version of the <em>Terms of Reference</em> ignored both subjects and the primary purpose of the study, which was to address the costs of cataloging for national bibliographic agencies. In other areas, the <em>Terms</em> document was quite specific, in particular in requiring the use of an entity-relation modeling technique. It probably is not hard to find the source of these requirements in the immediate group of actors: Tom Delsey was a strong proponent of the use of E-R modeling, and Barbara Tillett had analyzed bibliographic relationships as her doctoral study at the University of San Diego. It is also notable that although the study was to resolve problems that were of particular importance to national libraries in developing countries, the consultants chosen were all from North American libraries.

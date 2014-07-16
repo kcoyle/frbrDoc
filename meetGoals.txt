@@ -1,0 +1,109 @@
+
+				<h2>Does FRBR Meet FRBR&#039;s Goals?</h2>
+		 <blockquote>
+      <p>&quot;Many people want to evaluate a conceptual model like FRBR using 'true or false' criteria. While one can say that a model is 'true' to the extent that it explains accurately and 'false' to the extent that it does not, this is not a very helpful way to look at these models. A more useful way to evaluate these models is to ask whether they are successful at fulfilling their purposes.&quot; [carlylefusco]</p> </blockquote>      <p>The FRBR document states:</p>
+      <blockquote>
+        <p>&quot;The study makes no <em>a priori</em> assumptions about the bibliographic record itself, either in terms of content or structure. It takes a user-focused approach to analyzing data requirements insofar as it endeavours to define in a systematic way what it is that the user expects to find information about in a bibliographic record and how that information is used.&quot; p. 3</p>
+      </blockquote>
+  
+The whole issue of what users need (or even what they want which is not necessarily the same) is one that bugs me hugely. Not only were users not consulted about any aspect of this (OK, I do understand why) but as far as I can tell, absolutely no research into information behaviour was consulted either, and there is a great deal of it (and there was in the late 1990s too).
+
+
+				<h2>FRBR and Users</h2>
+		 <blockquote>
+      <p>&quot;Many people want to evaluate a conceptual model like FRBR using 'true or false' criteria. While one can say that a model is 'true' to the extent that it explains accurately and 'false' to the extent that it does not, this is not a very helpful way to look at these models. A more useful way to evaluate these models is to ask whether they are successful at fulfilling their purposes.&quot; [carlylefusco]</p> </blockquote>      <p>The FRBR document states:</p>
+      <blockquote>
+        <p>&quot;The study makes no <em>a priori</em> assumptions about the bibliographic record itself, either in terms of content or structure. It takes a user-focused approach to analyzing data requirements insofar as it endeavours to define in a systematic way what it is that the user expects to find information about in a bibliographic record and how that information is used.&quot; p. 3</p>
+      </blockquote>
+   
+<p>There are  main questions to ask about FRBR E-R:</p>
+    <ol>
+      <li>Does it serve user needs?</li>
+      <li>Is it efficient for catalogers?</li>
+      <li>Does FRBR promote efficient sharing of cataloging?</li>
+      <li>Does it reveal what is needed for a future design of bibliographic records?</li>
+      <li>Should it be further modeled for use in library systems, especially databases?</li>
+    </ol>
+<h2>1. Does FRBR  Serve Users?</h2>
+<blockquote>
+  <p>&quot;To begin with, we must note that our rules of descriptive cataloging contain no statement of the function which they are designed to serve.&quot; Seymour Lubetsky, 1946, Analysis of Current Descriptive Cataloging. [lubetzky, p. 50]</p>
+  <p>&quot;3. For each of the entities in the framework, identify and define the functions (e.g. to describe, to identify, to differentiate, to relate) that the bibliographic record is expected to perform.&quot; Terms of Reference for a Study of the Functional Requirements for Bibliographic Records (1992)</p>
+</blockquote>
+<p>The FRBR Study Group addressed the question of functionality by defining four user tasks (find, identify, select, obtain), and then mapping the bibliographic elements to those tasks. For each user task and each Group1 entity (groups 2 and 3 are not included in this part of the analysis), the attributes are giving a ranking of high, medium, or low value. Unfortunately, there is no explanation of how each attribute satisfies the task, leaving some questions. There are elements that are included that do not have a high value for any user task, leaving one to wonder if they should be included at all (e.g. capture mode, terms of availability). Some decisions bring into question the nature of the user task, such as the designation of <em>Statement of responsibility</em> as high value for the Obtain task, but   <em>Terms of availability</em> as of low value for that same task.</p>
+<p>The document itself is not structured around the user tasks, and  these are defined very briefly.  Within the document sections that describe  the entities, attributes, and relationships between entities there is no discussion of how the user tasks inform these aspects of the model. In particular, there is no discussion of <em>how</em> different attributes help users make their decisions, only a statement that they <em>do</em> provide information for users. For example, in section 6 on user tasks, the <em>identify</em> task is described in this way:</p>
+<blockquote>
+  <p>&quot;For the user tasks identify <em>work</em>, identify <em>expression</em>, identify <em>manifestation</em>, and identify <em>item</em>, the highest value was assigned to attributes and relationships that meet one or more of the following criteria:<br />
+    1.      the attribute by definition serves to identify the entity (e.g., <em>manifestation</em> identifier, <em>item</em> identifier);<br />
+    2.    the attribute or relationship forms part of the minimal set of attributes and relationships that for the majority of cases will serve, in the absence of a unique identifier, to differentiate entities that have a number of common characteristics (e.g., the minimal set of attributes sufficient to differentiate one <em>manifestation</em> from another in the majority of cases comprises title, statement of responsibility, edition/issue designation, publisher/distributor, date of publication/distribution, series statement, and form of carrier).&quot; (6.2.2, page 85)</p>
+</blockquote>
+<p>Unless the user is a trained cataloger, this is a completely unfounded set of assumptions. How do users <em>actually</em> identify manifestations? Do they pay any attention to the statement of responsibility? Do they understand the series statement? In fact, do they even see these data elements while making their choice? Many systems only display these in a full display, and users can make their choice from the results list with brief bibliographic displays. </p>
+<p>For a study that was purported to be user-centric, the user's absence is notable. There is no analysis of users; no mention of how varied the library user base is; no mention of children or elders or the disabled. Instead, this is clearly a study <em>by</em> catalogers <em>for</em> catalogers. Even more specifically, this is a study by catalogers at large research institutions. The list of participants (pp vii-viii) has no one from a public library, and out of ten persons, two are from the Library of Congress. In fact, if you think about it, ten people (6 members and 4 consultants) is a very small number for a study of this magnitude. </p>
+<p>So how did the study group study users? According to Olivia Madison:</p>
+<blockquote>
+  <p>&quot;The FRBR Terms of Reference mandated that the study take into account the needs of a broad range of users and how they use bibliographic records... One obvious option was to query, using a systematic methodology, a broad range of users, and draw conclusions from this analysis. Another option was to use our collective knowledge of the various types of users from the working gorup membership and commentators, as well as to draw upon experts in the fields to provide necessary user perspectives and conclusions. The Study Group decided in favor of the latter approach....&quot; [leboeuf p. 28-29]</p>
+  <p>&quot;The assessment of importance of each attribute or relationship to a given user task that is reflected in the tables was based in large part on the knowledge and experience of the study group members and consultants, supplemented by evidence in the library science literature gathered from empirical research, as well as by assessments made by several experts outside the study group.&quot; [frbr 83]</p>
+</blockquote>
+<p>My note to myself on that page reads: &quot;We don't need no stinkin' user surveys.&quot; Smiraglia is more precise, when he says that after analyzing 266 papers on FRBR, he discovered only 21 that reported on empirical research. [smiraglia2012 p 361]</p>
+<p>In other words, the study of user needs was done without studying users. But in fact the <em>Terms of Reference</em> [author Tom Delsey in leboeuf pp 35-37. ] that gave the group its charge  says very little about users and does not require the group to study them. It says: </p>
+<blockquote>
+  <p>&quot;The purpose of this study is to delineate in clearly defined terms the functions performed by the bibliographic record with respect to various media, various applications and various user needs.&quot; [leboeuf p. 35]</p>
+</blockquote>
+<p>There is no specific requirement to study users or even to define the user needs. The development of the definition of user tasks was not dictated by the Terms of Reference.</p>
+<p>The FRBR treatment of names and subjects differs very little from today's bibliographic catalog. The main differences between FRBR and a current data records are the division of the bibliographic description into four entities, and the potential for the creation of linking relationships between bibliographic entities. Although the latter hold promise, there does not yet exist a system that would provide evidence of user interaction with these relationships.  The studies by Pisanski and Zumer [pisanskizumer] were primarily directed at the question of whether users share the FRBR view of Group 1 entities. They made some key discoveries:</p>
+<ol>
+  <li>That users have many different views of the bibliographic universe, but where users had a common view it generally was a FRBR-like view of the &quot;progression&quot; from a general concept (Work) to individual publications (Manifestation) and lastly to specific items (such as signed copies).</li>
+  <li>That what mattered most to users was the language of the text, the form (book vs. DVD) and the contents (illustrations vs. no illustrations).</li>
+  <li>That users have a strong sense of &quot;original work&quot; which was the item that they placed at the &quot;top&quot; of the hierarchy, and for them took the place of the FRBR abstraction, Work. [1]</li>
+  <li>That users seek items at the FRBR level of Expression for the most part, and consider the related Manifestations to be acceptable substitutes for each other.</li>
+</ol>
+<p>The conclusion that users seek at the Expression level is quite logical when you think about it. The Work is an abstraction without expression, and in practice in libraries it would represent, for example, all language versions of an oft-translated Work, or all editions of a work that had been updated, such as reference works like almanacs. Most users have a preference in reading language and therefore the set including all languages would not be useful. In the case of different revised editions, such as with textbooks or reference books, (which was not tested for in the Pisanski/Zumer study) it would be unusual for a user to be seeking all editions, and even more unusual for a user to be seeking something other than the most recent edition available. </p>
+<p>I therefore conclude that FRBR Work, while it may be helpful in organizing displays or in creating a set from which users will select, is not in itself sought by most users, although in the case of a work in the user's language the difference between work and expression is not significant. In the study, users generally regarded any manifestation of an expression to be acceptable. Note, however, that the study was done by giving users cards containing information describing a particular Group1 entity, not with a &quot;FRBR-ized&quot; display.</p>
+<h2>FRBR and Cataloging Efficiency</h2>
+		<p><strong>Create a standard of &quot;minimal level&quot; cataloging</strong></p>
+<p>One of the primary reasons that motivated the FRBR study was:</p>
+<blockquote>
+  <p>&quot;All libraries, including national bibliographic agencies, are operating under increasing budgetary constrains and increasing pressures to reduce cataloging costs through minimal-level cataloging.&quot; Terms of Reference for a Study of the Functional Requirements for Bibliographic Records (1992)</p>
+</blockquote>
+<p>This implies that FRBR should result in a minimum or core set of data elements that would satisfy the basic needs of cataloging. Such a minimum set might be seen in the International Standard Bibliographic Description [ISBD]. The goals of the ISBD are:
+<blockquote>
+  <p>&quot;International Standard Bibliographic Description (ISBD),  ... is intended to serve as a principal standard to promote universal  bibliographic control, to make universally and promptly available, in a  form that is internationally acceptable, basic bibliographic data for  all published resources in all countries. The ISBD's main goal is, and  has been since the very beginning, to offer consistency when sharing  bibliographic information.&quot; [ISBDReview]</p>
+</blockquote>
+<p>The relationship between FRBR and ISBD is unclear to me. The FRBR report does cite ISBD as a source:
+<p>&quot;The basic elements of the model developed for the study--the entities, attributes, and relationships--were derived from a logical analysis of the data that are typically reflected in bibliographic records. The basic elements of the model developed for the study--the entities, attributes, and relationships--were derived from a logical analysis of the data that are typically reflected in bibliographic records.<br />
+  The principal sources used in the analysis included the<br />
+  International Standard Bibliographic Descriptions (ISBDs), ...&quot; [frbr, p. 4]
+<p>Although throught the FRBR study they cite ISBD as a source of attributes for the entities, it is instructive to look briefly at a comparison of FRBR and ISBD:
+<table width="200" border="1">
+  <tr>
+    <th scope="col">&nbsp;</th>
+    <th scope="col">ISBD</th>
+    <th scope="col">FRBR</th>
+    <th scope="col">FRBR Basic*</th>
+  </tr>
+  <tr>
+    <th scope="row">attributes</th>
+    <td>34</td>
+    <td>84</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th scope="row">relationships</th>
+    <td>&nbsp;</td>
+    <td>34</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th scope="row">both</th>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>53</td>
+  </tr>
+</table>
+<p>* Basic Level National Bibliographic Record, section 7.3
+<p>Both FRBR basic and ISBD include only the bibliographic description, which means that creators and subjects are not in the list of attributes. There at the most basic level, FRBR has 19 more attributes than ISBD. Yet, the Terms of Reference stated that:
+<blockquote>
+  <p>&quot;The study is to cover the full range of functions for the bibliogrpahic record in its widest sense-ie.e., a record that encompasses not only descriptive elements but access points (name, title, stubject, etc.), other 'organizing elements' (classification, etc.), and annotations.&quot;</p>
+</blockquote>
+<p>Other than the &quot;statement of responsibility,&quot; which is the string that follows the title in traditional library cataloging (e.g., &quot;H<span dir="ltr" id="baseDirectionInsertComponent">arry Potter and the sorcerer's stone / by J.K. Rowling ; illustrations by Mary Grandpré&quot;), no mention is made of creators, and no access points or organizing </span>elements are including in the basic list of elements. Atlhough the full FRBR model includes Groups 2 and 3 for creators (and other agents) and subjects, these are not included in the discussion of user tasks. This is quite an oversight, since from the days of C.A. Cutter, library cataloging has included the goals of:
+<p>Find what the library has by an author
+<p>Find what the library has on a particular subject
